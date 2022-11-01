@@ -7,11 +7,19 @@ This Project is about to detect someone using mask or not. Train file contains e
 
 Dataset from https://www.kaggle.com/code/charlessamuel/face-mask-detection-pytorch/data
 
+OUTPUT 
 
 
 
-Output
-![LIVE_screenshot_21 10 2022](https://user-images.githubusercontent.com/56083684/197259280-254e2156-c162-40dd-bd9a-e3099823f231.png)
 
 
-![Mask](https://user-images.githubusercontent.com/56083684/197270079-6d7e5d61-ecf4-4684-8f3e-7c54e5422601.png)
+
+
+
+
+![mask2_copy](https://user-images.githubusercontent.com/56083684/199279315-1072ed4d-d707-447a-b33f-5b5318356d8a.png)
+
+
+
+
+![without mask_copy](https://user-images.githubusercontent.com/56083684/199279377-382a3255-e7f0-49a7-8cd1-814d5ea599d5.png)
